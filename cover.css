@@ -12,7 +12,7 @@
 .btn-secondary:focus {
 <<<<<<< HEAD
   color: darkgreen;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  text-shadow: 2px 2px 8px lightgreen; /* Prevent inheritance from `body` */
 }
 
 
