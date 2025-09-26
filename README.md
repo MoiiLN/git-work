@@ -1,8 +1,8 @@
-# git-work
+# GIT-WORK
 
 <center>
 
-# TÍTULO DE LA PRÁCTICA
+# UT1-A1 Documentación y sistema de control de versiones
 
 
 </center>
@@ -53,4 +53,4 @@ Al comenzar la práctica se disponian de conceptos y fluidez de git decentes, pe
 
 Nos ha brindado nuestra primera experiencia en esta asignatura, y es sobre el sistema de control de versiones, el cual es tan importante en nuestro sector.
 
-Ya en el primer curso se nos conscienció de ello, pero en esta ocasión, ha sido ir un paso más allá.
+Ya en el primer curso se nos conscienció de ello, pero en esta ocasión, ha sido ir un paso más allá e indagar un poco más en esta herramienta. Lo cual es excesivamente importante, tanto para nuestro sector como para directamente este curso, y realizarlo al comienzo del mismo, será de mucha ayuda.
