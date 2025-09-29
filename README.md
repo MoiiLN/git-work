@@ -21,7 +21,9 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
-En esta práctica, aprenderemos y/o interiorizaremos mecanismos de git simulando un trabajo de dos personas sola, y únicamente utilizando sistema de control de versiones.
+En esta práctica, aprenderemos y afianzaremos distintos mecanismos de Git mediante la simulación de un escenario de trabajo colaborativo entre dos personas. El objetivo principal es familiarizarnos con el uso del sistema de control de versiones como herramienta central para la gestión del código, dejando de lado otros medios de intercambio de archivos y centrándonos exclusivamente en las funcionalidades que Git y GitHub ponen a nuestra disposición.
+
+La actividad nos permitirá recorrer un flujo de trabajo completo: desde la creación de un repositorio inicial y su configuración, pasando por el uso de ramas, forks e issues, hasta la apertura y gestión de pull requests con la resolución de conflictos. Además, se busca experimentar de manera práctica cómo se organiza la comunicación entre colaboradores dentro de un mismo proyecto, algo fundamental en entornos profesionales.
 
 #### ***Objetivos***. <a name="id2"></a>
 
@@ -37,7 +39,17 @@ Entre otros.
 
 #### ***Material empleado***. <a name="id3"></a>
 
-Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
+Hardware
+
+- Ordenadores del alumnado
+
+Software
+
+- Git
+- Navegador Web
+- Editor de texto/código
+- Configuraciones realizadas
+- Red
 
 #### ***Desarrollo***. <a name="id4"></a>
 
@@ -45,7 +57,8 @@ Enumeramos el material empleado tanto hardware como software y las conficuracion
 
 En este caso, Moisés ha creado el repositorio en GitHub con los requisitos solicitados como se aprecia en la imagen.
 
-<img width="1903" height="963" alt="image" src="https://github.com/user-attachments/assets/0754ece5-9cdb-4515-b487-9cc9bfcc85d4" />
+<img width="914" height="412" alt="image" src="https://github.com/user-attachments/assets/0c83731f-7f76-4990-9e25-0b57e489fc5d" />
+
 
 2. user1 clonará el repo y añadirá los ficheros: index.html, bootstrap.min.css y cover.css. Luego subirá los cambios al upstream.
 
