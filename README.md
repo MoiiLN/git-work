@@ -7,7 +7,7 @@
 
 </center>
 
-***Nombre: Moisés Y Leonardo***
+***Nombre:Moisés (user1) Y Leonardo (user2)***
 ***Curso:*** 2º de Ciclo Superior de Desarrollo de Aplicaciones Web.
 
 ### ÍNDICE
@@ -40,6 +40,11 @@ Entre otros.
 Enumeramos el material empleado tanto hardware como software y las conficuraciones que hacemos (configuraciones de red por ejemplo) 
 
 #### ***Desarrollo***. <a name="id4"></a>
+
+1. user1 creará un repositorio público llamado git-work en su cuenta de GitHub, añadiendo un README.md y una licencia MIT.
+
+<img width="1903" height="963" alt="image" src="https://github.com/user-attachments/assets/0754ece5-9cdb-4515-b487-9cc9bfcc85d4" />
+
 
 En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
 
