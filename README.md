@@ -7,7 +7,7 @@
 
 </center>
 
-***Nombre:Moisés (user1) Y Leonardo (user2)***
+***Nombre: Moisés (user1) Y Leonardo (user2)***
 ***Curso:*** 2º de Ciclo Superior de Desarrollo de Aplicaciones Web.
 
 ### ÍNDICE
@@ -21,9 +21,9 @@
 
 #### ***Introducción***. <a name="id1"></a>
 
-En esta práctica, aprenderemos y afianzaremos distintos mecanismos de Git mediante la simulación de un escenario de trabajo colaborativo entre dos personas. El objetivo principal es familiarizarnos con el uso del sistema de control de versiones como herramienta central para la gestión del código, dejando de lado otros medios de intercambio de archivos y centrándonos exclusivamente en las funcionalidades que Git y GitHub ponen a nuestra disposición.
+En esta práctica, aprenderemos y afianzaremos distintos mecanismos de Git mediante la simulación de un trabajo entre dos personas. El objetivo principal es familiarizarnos con el uso del sistema de control de versiones como herramienta central para la gestión del código, dejando de lado otros medios de intercambio de archivos y centrándonos exclusivamente en las funcionalidades que Git y GitHub.
 
-La actividad nos permitirá recorrer un flujo de trabajo completo: desde la creación de un repositorio inicial y su configuración, pasando por el uso de ramas, forks e issues, hasta la apertura y gestión de pull requests con la resolución de conflictos. Además, se busca experimentar de manera práctica cómo se organiza la comunicación entre colaboradores dentro de un mismo proyecto, algo fundamental en entornos profesionales.
+La actividad nos permitirá recorrer un flujo de trabajo completo: creación de un repositorio inicial y su configuración, pasando por el uso de ramas, forks, issues entreo otros hasta la apertura y gestión de pull requests con la resolución de conflictos. Además, se busca experimentar de manera práctica cómo se organiza la comunicación entre colaboradores dentro de un mismo proyecto, algo fundamental.
 
 #### ***Objetivos***. <a name="id2"></a>
 
@@ -62,10 +62,10 @@ En este caso, Moisés ha creado el repositorio en GitHub con los requisitos soli
 
 2. user1 clonará el repo y añadirá los ficheros: index.html, bootstrap.min.css y cover.css. Luego subirá los cambios al upstream.
 
-git clone https://github.com/user1/git-work.git
-cd git-work
+git clone https://github.com/user1/git-work.git 
+cd git-work 
 
-touch index.html bootstrap.min.css cover.css
+touch index.html bootstrap.min.css cover.css (En nuestro caso, el user1 directamente creó cada archivo y después añadió el contenido en cada uno de ellos)
 git add index.html bootstrap.min.css cover.css
 git commit -m "Add initial project files"
 git push origin main
