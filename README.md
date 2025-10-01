@@ -62,6 +62,10 @@ En este caso, Moisés ha creado el repositorio en GitHub con los requisitos soli
 
 2. user1 clonará el repo y añadirá los ficheros: index.html, bootstrap.min.css y cover.css. Luego subirá los cambios al upstream.
 
+En la imagen que se muestra a continuación solo se muestra la creación del cover.css, no obstante, es simplemente hacerlo con los tres archivos a crear.
+
+<img width="335" height="33" alt="imagen" src="https://github.com/user-attachments/assets/4110edcf-d646-4e1d-b676-540e4fb760ce" />
+
 git clone https://github.com/user1/git-work.git 
 cd git-work 
 
@@ -69,6 +73,28 @@ touch index.html bootstrap.min.css cover.css (En nuestro caso, el user1 directam
 git add index.html bootstrap.min.css cover.css
 git commit -m "Add initial project files"
 git push origin main
+
+<img width="252" height="70" alt="imagen" src="https://github.com/user-attachments/assets/32d977c1-c706-40b8-9da7-47c41899a764" />
+
+3. user2 creará un fork de git-work desde su cuenta de GitHub.
+
+
+
+4. user2 clonará su fork del repo.
+
+
+5. user1 creará una issue con el título "Add custom text for startup contents".
+
+<img width="362" height="69" alt="imagen" src="https://github.com/user-attachments/assets/0c3ae4c6-7127-41af-afeb-1a1a8a3c6591" />
+
+6. user2 creará una nueva rama custom-text y modificará el fichero index.html personalizándolo para una supuesta startup.
+
+<img width="309" height="73" alt="imagen" src="https://github.com/user-attachments/assets/9803fbaa-bb05-4bcf-90f5-5d31329d6204" />
+
+7. user2 enviará un PR a user1.
+
+<img width="436" height="79" alt="imagen" src="https://github.com/user-attachments/assets/3c29acd2-b141-4bca-ac23-f1b0c6332d72" />
+
 
 
 En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
