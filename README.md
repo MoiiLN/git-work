@@ -170,14 +170,14 @@ user2 crea la rama
 
 <img width="357" height="26" alt="imagen" src="https://github.com/user-attachments/assets/86ebd63d-0698-4c2a-acca-08f6a231ba56" />
 
-cambia cover.css a darkgreen
+cambia cover.css a darkgreen en la línea 10
 
 <img width="258" height="282" alt="imagen" src="https://github.com/user-attachments/assets/de1506b4-0f76-40ed-9c74-0f279fdcb231" />
 
 
 16. user2 enviará un PR a user1.
 
-user2 hace el commit 
+user2 hace el PR de froma correcta
 
 <img width="675" height="33" alt="imagen" src="https://github.com/user-attachments/assets/c396fd7a-8a9c-43b3-a1cb-25ff4de884bf" />
 
@@ -227,11 +227,6 @@ publica release
 <img width="969" height="345" alt="imagen" src="https://github.com/user-attachments/assets/e0159f6e-d113-4437-9c29-b2529c6de276" />
 
 
-En esta parte explicamos detalladamente los pasos que seguimos para realizar la práctica incluyendo capturas de pantalla y explicando que vemos en ellas. 
-
-> ***IMPORTANTE:*** si estamos capturando una terminal no hace falta capturar todo el escritorio y es importante que se vea el nombre de usuario.
-
-Si encontramos dificultades a la hora de realizar algún paso debemos explicar esas dificultades, que pasos hemos seguido para resolverla y los resultados obtenidos.
 
 #### ***Conclusiones***. <a name="id5"></a>
 
